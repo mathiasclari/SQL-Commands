@@ -40,7 +40,8 @@ DROP INDEX - deletes an index
 <hr>
 <div id="header" align="center">
   <h3>This file is designed by BestBuds!
-    <p>If you want to add anything feel free to make a pullrequest!<p>
+<br>
+    <a href="https://github.com/PxLib/SQL-Commands/pulls" type="button">Become Contrubutor<a>
     </div>
     <div align="center">
     <img src="https://github.com/Bee-Studios/Banding/blob/main/BBpng.png" title="BestBuds" alt="BestBuds" width="70" height="40"/>&nbsp;
