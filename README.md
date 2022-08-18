@@ -3,7 +3,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="400"/>
   </div>
   <div id="Introduction" align="center">
-    <h3>👋 Welcome to SQL Commands</h3>
+    <h3>👋 Welcome to SQL Commands Wiki</h3>
     <h4>SQL is a standard language for accessing and manipulating databases</h4>
     <p>SQL stands for Structured Query Language</p>
     <p>SQL lets you access and manipulate databases</p>
